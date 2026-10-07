@@ -115,4 +115,4 @@ app.post("/api/chat", requireUser, async (req, res) => {
 });
 
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Ask My Codebase running on http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Repo Query running on http://localhost:${PORT}`));
