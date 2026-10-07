@@ -116,5 +116,3 @@ public/index.html       Chat UI
 ```
 
 ---
-
-Created by **Navneet Kumar**
